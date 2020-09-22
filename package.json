@@ -1,0 +1,8 @@
+{
+  "name": "com.prin-kindom.test-upm",
+  "version": "1.2.3",
+  "displayName": "Test_UPM",
+  "description": "My proj for test UPM",
+  "unity": "2018.3",
+  "type": "tool"
+}
